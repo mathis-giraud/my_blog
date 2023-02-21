@@ -1,0 +1,19 @@
+---
+title: "Mon premier blog - Mathis GIRAUD"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+## Question 1.1
+```{r}
+
+```
+
+## Question 2
